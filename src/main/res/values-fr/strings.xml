@@ -124,7 +124,11 @@
     <string name="proprietary_notice">Magisk Manager est Libre, il ne contient pas le code API SafetyNet propriétaire de Google. \ N \ nAutorisez vous le Gestionnaire Magisk à télécharger une extension (contenant GoogleApiClient) pour les contrôles SafetyNet? </String>
     <string name = "su_db_corrupt"> La base de données SU est corrompue, une nouvelle base de donnée va être re-créé</string>
     <string name="cannot_check_sn_title">Vérification SafetyNet impossible</string>
-+   <string name="cannot_check_sn_notice">En raison de certains changements dans les services Google Play, il n\'est pas possible de vérifier SafetyNet via Magisk Manager reconstruit</string>
+    <string name="cannot_check_sn_notice">En raison de certains changements dans les services Google Play, il n\'est pas possible de vérifier SafetyNet via Magisk Manager reconstruit</string>
+    <string name="setup_done">Installation terminée</string>
+    <string name="setup_fail">Échec de l\'installation</string>
+    <string name="env_fix_title">Installation additionnelle requise</string>
+    <string name="env_fix_msg">Votre appareil a besoin d\'une configuration supplémentaire pour que Magisk fonctionne correctement. Il téléchargera le zip d'installation de Magisk, voulez-vous procéder maintenant ?</string>
  
     <!--Settings Activity -->
     <string name="settings_general_category">Général</string>
